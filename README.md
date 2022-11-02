@@ -9,7 +9,7 @@
 * [Live Website](https://cbernadotte.github.io/Code-Refractor/)
 
 # Local Host
-* <img src="~/Desktop/Rutgers/homework/Code-Refractor/assets/css/website.gif" />
+![](https://github.com/cbernadotte/Code-Refractor/blob/main/website.gif)
 
 # Author
 * [Github](https://github.com/cbernadotte)
