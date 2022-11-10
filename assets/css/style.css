@@ -24,6 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Targets the header and then finds the nav that is positioning the nav bar to the right */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* top image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +61,7 @@ p {
     background-position: center;
 }
 
+/* project images position */
 .float-left {
     float: left;
     margin-right: 25px;
