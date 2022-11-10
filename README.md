@@ -13,4 +13,4 @@
 
 # Author
 * [Github](https://github.com/cbernadotte)
-* [LinkedIn](www.linkedin.com/in/claudine-bernadotte-614b38152)
+* [LinkedIn](https://www.linkedin.com/in/claudine-bernadotte-614b38152)
